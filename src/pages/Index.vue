@@ -48,10 +48,8 @@
               </div>
             </div>
 
-            <div class="card">
-              <div class="col-xs-12 col-md-6 flex-center flex">
-                <q-img src="~assets/leao.png" />
-            </div>
+            <div class="col-xs-12 col-md-6 flex-center flex">
+                <img src="~assets/leao.png" width="300px" height="590px">
             </div>
           </div>
         </div>
@@ -106,6 +104,10 @@
     width: 300px;
     height: 590px;
   }
+}
+.q-img src{
+  height: 590;
+  width: 300px;
 }
 
 .btn-apple {

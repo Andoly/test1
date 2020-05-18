@@ -7,8 +7,7 @@ const routes = [
       { name: 'home', path: '', component: () => import('pages/Index.vue') },
       { name: 'pet', path: '/pet', component: () => import('pages/Pet.vue') },
       { name: 'veterinario', path: '/veterinario', component: () => import('pages/Veterinario.vue') },
-      { name: 'privacidade', path: '/privacidade', component: () => import('pages/Privacidade.vue') },
-      { name: 'testes', path: '/testes', component: () => import('pages/test.vue') }
+      { name: 'privacidade', path: '/privacidade', component: () => import('pages/Privacidade.vue') }
     ]
   }
   // {
