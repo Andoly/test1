@@ -1,6 +1,7 @@
-# Quasar App (petgo)
+# Quasar App (PetGo)
 
 A Quasar Framework app
+![alt](https://ibb.co/F7cbZVj)
 
 ## Install the dependencies
 ```bash
